@@ -76,7 +76,10 @@ section {
 }
 
 .inicio-centro h1 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
     font-size: 3vw;
+    margin-left: 1vw;
 }
 
 .inicio-centro h2 {
@@ -86,6 +89,7 @@ section {
 }
 
 .inicio-centro p {
+    font-family: "Cabin", sans-serif;
     font-size: 2vw;
     text-align: right;
 }
